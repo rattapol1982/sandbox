@@ -7,9 +7,11 @@ _test_
 - Test
     - Test
 
-| Name | Surname | Department |
----------------------------------------
-| xx    |  yy   | ZZ    |
+--------------------------------------
+
+| Name | Surname | Department        |
+ ------|---------|---------------------
+| xx   |  yy     | ZZ                |
 
 `json here`
 
